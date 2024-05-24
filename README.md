@@ -24,14 +24,3 @@ Capstone Project
  computer vision model that can accurately detect facial emotions. The model should be able to
  perform multi-class classification on images of facial expressions, to classify the expressions
  according to the associated emotion.
- This file is meant for personal use by zoeenwj@gmail.com only.
- Sharing or publishing the contents in part or full is liable for legal action.
- Proprietary content. © Great Learning. All Rights Reserved. Unauthorized use or distribution prohibited.
- 1
-About the dataset
- The data set consists of 3 folders, i.e., 'test', 'train', and 'validation'.
- Each of these folders has four subfolders:
- ● ‘happy’: Images of people who have happy facial expressions.
- ● ‘sad’: Images of people with sad or upset facial expressions.
- ● ‘surprise’: Images of people who have shocked or surprised facial expressions.
- ● ‘neutral’: Images of people showing no prominent emotion in their facial expression at all.

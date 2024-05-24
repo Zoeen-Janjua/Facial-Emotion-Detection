@@ -9,8 +9,7 @@ Capstone Project
  Emotion AI) Artificial Emotional Intelligence stands for the study and development of technologies
  and computers that can read human emotions by means of analyzing body gestures, facial
  expressions, voice tone, etc. and react appropriately to them.
- zoeenwj@gmail.com
- MXH49EJKD1
+ 
  In the field of human-machine interaction, facial expression recognition is critical. From recent
  research, it has been found that as much as 55% of communication of sentiment takes place
  through facial expressions and other visual cues. Therefore, training a model to identify facial
@@ -19,6 +18,7 @@ Capstone Project
  have many applications, including but not limited to any use case that requires human behavior
  understanding, detection of mental disorders, and creating a higher quality of virtual assistant for
  customer-facing businesses.
+ 
  Objective
  The goal of this project is to use Deep Learning and Artificial Intelligence techniques to create a
  computer vision model that can accurately detect facial emotions. The model should be able to
